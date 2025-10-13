@@ -1,3 +1,3 @@
-🏥 #Hospital Admission Forecasting Based on Air Quality
+🏥 Hospital Admission Forecasting Based on Air Quality
 
 This project predicts daily hospital admissions based on air quality metrics using advanced time series forecasting and Transformer-based encoder–decoder architecture. The model effectively captures temporal dependencies between pollutants (like PM2.5, NO₂, and O₃) and health outcomes, achieving an RMSE accuracy of 82.3%. It is deployed using Gradio, offering an interactive web interface for real-time predictions and data visualization. Built with Python, PyTorch, Pandas, and Matplotlib, this project demonstrates the potential of AI-driven healthcare forecasting and its role in understanding environmental impacts on public health.
