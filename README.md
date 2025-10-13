@@ -1,8 +1,8 @@
-Hospital Admission Forecasting Based on Air Quality
+##Hospital Admission Forecasting Based on Air Quality
 
 This project predicts daily hospital admissions using air quality data through advanced time series forecasting techniques.
 
-🔍 Overview
+##🔍 Overview
 
 Built a deep learning model combining Transformer, Encoder–Decoder, and Time Series Analysis concepts.
 
@@ -12,7 +12,7 @@ Achieved an RMSE accuracy of 82.3%, indicating reliable forecasting performance.
 
 Deployed a fully interactive Gradio web app for real-time predictions and visualization.
 
-🚀 Features
+##🚀 Features
 
 Dynamic air quality input interface
 
